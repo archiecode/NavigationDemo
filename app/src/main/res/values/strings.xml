@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NavigationDemo</string>
+    <string name="input_email">填写注册邮箱</string>
+    <string name="input_pass">输入密码</string>
+    <string name="register">注册</string>
+    <string name="login">登录</string>
+    <string name="nav_register">前往注册</string>
+</resources>
